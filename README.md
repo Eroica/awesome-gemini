@@ -239,6 +239,7 @@ Currently outdated repo mirrors:
 - [vger](https://tildegit.org/solene/vger) (C) - Gemini server written in C used with inetd.
 - [Windmark](https://github.com/gemrest/windmark) (Rust) - An elegant and highly performant async Gemini server framework
 - [SpaceBeans](https://git.usebox.net/spacebeans/about/) (Scala) - supports virtual hosting, user directories, classic CGI.
+- [SpaceCafe](https://github.com/Eroica/SpaceCafe) (Kotlin) - based on SpaceBeans, using Kotlin and coroutines.
 - [StaticGeminiServer](https://github.com/marek22k/StaticGeminiServer) ([Codeberg](https://codeberg.org/mark22k/StaticGeminiServer)) (Ruby) - a simple more or less stable gemini server for static files
 - [kepler](https://github.com/ambyshframber/kepler) - simple gemini server in rust
 - [Mehari](https://github.com/Psi-Prod/Mehari) - Featureful server in OCaml
